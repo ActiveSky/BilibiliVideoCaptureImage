@@ -14,7 +14,13 @@ chrome 插件：
 # 用法
 方式一：右键'B站视频截图'菜单即可将当前视频帧下载下来
 
+ps. 右键点击在空白处
+
 方式二：使用快捷键'Ctrl + Shift + K'，快捷键可以在扩展程序管理界面自定义
+
+# screenshot
+
+![2024-09-04 19_28_16- 1](https://github.com/user-attachments/assets/63ce5ba4-d374-4f04-8975-2c629912081e)
 
 
 # 实际体验
